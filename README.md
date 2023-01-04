@@ -43,4 +43,3 @@ helping with the knowledge of [@Waxer59](https://github.com/Waxer59). Since I st
 
 <h3 align="left">Addons</h3>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Waxer59&show_icons=true&locale=en&layout=compact" alt="ovi" />
-<img  width="49%" height="162px" style="border-radius:5px;" src="https://i.imgur.com/J7s866V.gif"/>
