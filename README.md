@@ -4,8 +4,8 @@ I just started my way to dev since I was 15 starting with JavaScript making disc
 helping with the knowledge of [@Waxer59](https://github.com/Waxer59). Since I started making code I realized it's a very complex world, happy to join!
 
 - 🏡 Based in Spain, Madrid.
-- 🧩 Making a Minecraft Network called [Corecraft](https://discord.gg/dUVaMmC45e)
-- ☕ Made a [discord coding community](https://discord.gg/dUVaMmC45e) for all.
+- 🧩 Making a Minecraft Network called [Corecraft](https://discord.gg/n7QDdTZJDe)
+- ☕ Made a [discord coding community](https://discord.gg/n7QDdTZJDe) for all.
 
 <h3 align="left">Skills</h3>
 <p align="left">
@@ -23,12 +23,6 @@ helping with the knowledge of [@Waxer59](https://github.com/Waxer59). Since I st
 	</a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-	</a>
-	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/>
-	</a>
-	<a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="30" height="30"/>
 	</a>
 	<a href="https://nodejs.org" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
